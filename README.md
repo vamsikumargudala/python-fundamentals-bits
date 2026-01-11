@@ -71,3 +71,10 @@ Open any `.ipynb` file in VS Code and select the `.venv` kernel.
 - **VS Code** - Editor with Jupyter extension
 
 For detailed setup instructions, see [PROJECT_SETUP_GUIDE.md](PROJECT_SETUP_GUIDE.md).
+
+---
+
+## Disclaimer
+
+- **Sessions/** contains original lecture materials from BITS Pilani, shared for educational purposes only. All rights belong to the respective instructors.
+- **My Notes/** contains personal study notes created from the lectures.
